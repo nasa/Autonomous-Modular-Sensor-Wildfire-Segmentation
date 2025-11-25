@@ -1,0 +1,23 @@
+name: nasa
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python=3.10
+  - matplotlib
+  - scikit-learn
+  - opencv
+  - tifffile
+  - scipy
+  - gdal
+  - rasterio
+  - pyhdf
+  - shapely
+  - seaborn
+  - keras-tuner
+  - pillow
+  - jupyter
+  - pip:
+    - tensorflow[and-cuda]

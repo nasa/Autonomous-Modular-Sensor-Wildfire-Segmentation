@@ -1,0 +1,29 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Large data files
+data/landsat_data/
+
+# Excluded files
+pereira_segmentation_models.py
+ams_data_exploration.ipynb
+landsat_data_exploration.ipynb

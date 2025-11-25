@@ -1,0 +1,17 @@
+seaborn
+numpy
+sklearn
+matplotlib
+tensorflow
+tifffile
+cv2
+pyhdf
+scipy
+osgeo
+shapely
+rasterio
+gdal
+keras-tuner
+pillow
+cudatoolkit
+cudnn
